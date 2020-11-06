@@ -1,2 +1,2 @@
-# react-ts-next-boilerplate
+# React Typescript CRA Boilerplate
 Boilerplate for front end stack
