@@ -8,6 +8,7 @@ Boilerplate for front end stack
 
 ### Framework
 - CRA
+- Storybook
 
 ### Data Layer
 - GraphQL
@@ -17,3 +18,5 @@ Boilerplate for front end stack
 - ESLint
 
 ### Testing
+- Jest
+- Cypress
