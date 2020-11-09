@@ -8,15 +8,17 @@ Boilerplate for front end stack
 
 ### Framework
 - CRA
-- Storybook
 
 ### Data Layer
 - GraphQL
 - Apollo
+- GraphQL Codegen
 
 ### Lint
 - ESLint
+- Prettier
 
 ### Testing
 - Jest
+- Enzyme
 - Cypress
