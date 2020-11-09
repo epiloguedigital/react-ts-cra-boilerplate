@@ -1,5 +1,9 @@
 name: semantic-pull-request
 on:
+  pull_request:
+    branches: 
+      - develop
+      - master
   pull_request_target:
     types:
       - opened
