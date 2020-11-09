@@ -1,4 +1,6 @@
 titleAndCommits: true
+allowMergeCommits: true
+allowRevertCommits: true
 types:
   - feat
   - fix
